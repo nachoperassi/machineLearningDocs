@@ -1,4 +1,4 @@
 # MachineLearning
-Some useful docs and personal/academic projects
+Some useful docs for machine learning projects with python
 
 If you are looking for documents please go to the Wiki >
